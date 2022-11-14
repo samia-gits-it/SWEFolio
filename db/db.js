@@ -41,13 +41,13 @@ export default {
 		},
 		{
 			title: "Design",
-			skillName: "HTML, Bootstrap, SCSS",
+			skillName: "HTML, Bootstrap, SCSS, CSS",
 			color: "4",
 			percentage: "90",
 		},
 		{
 			title: "Version Control",
-			skillName: "GitHub, JIRA, Trello",
+			skillName: "GitHub, JIRA, Trello, Azure DevOps, Maven",
 			color: "7",
 			percentage: "90",
 		},
@@ -58,8 +58,8 @@ export default {
 			percentage: "90",
 		},
 		{
-			title: "Saas products",
-			skillName: "CleverTap, FreshDesk",
+			title: "QA Testing Tools",
+			skillName: "Selenium, Appium",
 			color: "5",
 			percentage: "40",
 		},
