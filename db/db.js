@@ -17,13 +17,13 @@ export default {
 	skills: [
 		{
 			title: "Languages",
-			skillName: "JavaScript, C++",
+			skillName: "JavaScript, C++, Java, C#, Python, SQL, PHP, Swift, Objective-C, R",
 			color: "1",
 			percentage: "78",
 		},
 		{
 			title: "Frameworks/Libraries",
-			skillName: "Angular, Reactjs",
+			skillName: "Angular, Reactjs, NumPy, Bootstrap, Vuejs, NET",
 			color: "6",
 			percentage: "50",
 		},
